@@ -18,7 +18,7 @@ tags:
 
 今天（4 月 28 日）我在 GitHub 上看到了 [黄玄](http://huangxuan.me/) 的 [模板](https://github.com/Huxpro/huxpro.github.io)，于是决定 fork 下来进行修改。说实话这种程度的修改没啥技术含量。
 
-我甚至没有在 Linux 环境下进行操作，也没有用 Windows 下的 Git，而是简单粗暴地下载了 Github 桌面端并将仓库 clone 到本地，使用 Notepad++ 进行编辑。
+我甚至没有在 Linux 环境下进行操作，也没有用 Windows 下的 Git，而是简单粗暴地下载了 GitHub 桌面端并将仓库 clone 到本地，使用 Notepad++ 进行编辑。
 
 未来有时间我再继续折腾吧，正在考虑后续购入域名事宜。
 
