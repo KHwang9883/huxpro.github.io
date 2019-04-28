@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Hello World"
-subtitle: "K. HWANG 部落格的设立"
 author: "K. HWANG"
 header-img: "img/post-bg-helloworld.png"
 header-mask: 0.4
