@@ -64,7 +64,9 @@ kramdown:
 # Netease settings
 netease_comment: false
 
-
+# Livere
+labili: true                           # whether or not using Livere
+labili_uid: MTAyMC80NDIwOS8yMDc0Mg==    # data uid
 
 # Analytics settings
 # Baidu Analytics 

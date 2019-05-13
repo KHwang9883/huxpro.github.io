@@ -49,7 +49,7 @@ if(navigator.serviceWorker){
       console.log("UPDATE_FOUND_BY_SW", data);
       createSnackbar({
         message: "内容已更新。",
-        actionText:"refresh",
+        actionText:"刷新",
         action: function(e){location.reload()}
       })
     }

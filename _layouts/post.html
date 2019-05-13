@@ -29,6 +29,12 @@ layout: default
                 </select>
                 {% endif %}
 
+                <!-- 来必力City版安装代码 -->
+                {% if site.labili %}
+                <div id="lv-container" data-id="city" data-uid="{{ site.labili_uid }}">
+                </div>
+                {% endif %}
+
 				{{ content }}
 
                 <hr style="visibility: hidden;">
@@ -139,6 +145,18 @@ layout: default
 <!-- disqus 公共JS代码 end -->
 {% endif %}
 
+{% if site.labili %}
+<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+       if (typeof LivereTower === 'function') { return; }
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+</script>
+{% endif %}
 
 {% if site.anchorjs %}
 <!-- async load function -->
