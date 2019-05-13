@@ -5,7 +5,7 @@ author: "K. HWANG"
 header-img: "img/post-bg-tieba-mono.png"
 header-mask: 0.4
 tags:
-  - Meta
+  - 日常
 ---
 
 锑度吞了 2017 年以前的全部旧帖。
