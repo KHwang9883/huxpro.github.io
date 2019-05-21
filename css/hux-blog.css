@@ -1087,7 +1087,7 @@ samp {
 }
 .intro-header .post-heading .meta {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-style: italic;
+  font-style: normal;
   font-weight: 300;
   font-size: 16px;
 }
@@ -1149,7 +1149,7 @@ samp {
   font-family: 'Lora', 'Times New Roman', serif;
   color: #cccccc;
   font-size: 16px;
-  font-style: italic;
+  font-style: normal;
   margin-top: 0;
 }
 .post-preview > .post-meta > a {
