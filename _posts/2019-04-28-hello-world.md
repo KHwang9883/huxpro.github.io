@@ -5,7 +5,7 @@ author: "K. HWANG"
 header-img: "img/post-bg-helloworld.png"
 header-mask: 0.4
 tags:
-  - Meta
+  - General
 ---
 
 **2019.04.29 更新：**修复了博客的一些小问题，现在它终于达到了我比较满意的程度。如有新的变动，会在这里更新。

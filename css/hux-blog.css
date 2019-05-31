@@ -1145,7 +1145,7 @@ samp {
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
-  color: #cccccc;
+  color: #a3a3a3;
   font-size: 15px;
   font-style: normal;
   margin-top: 0;
@@ -1175,7 +1175,6 @@ samp {
 .post-content-preview {
   font-size: 15px;
   font-style: normal;
-  color: #a3a3a3;
 }
 .post-content-preview:hover {
   color: #0085a1;
