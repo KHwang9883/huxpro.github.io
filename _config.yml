@@ -64,9 +64,8 @@ kramdown:
 # Netease settings
 netease_comment: false
 
-# Livere
-labili: false                           # whether or not using Livere
-labili_uid: MTAyMC80NDIwOS8yMDc0Mg==    # data uid
+# Gitalk
+gitalk: true
 
 # Analytics settings
 # Baidu Analytics 
