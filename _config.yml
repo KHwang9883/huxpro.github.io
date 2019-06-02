@@ -5,7 +5,7 @@ header-img: img/head-bg.jpg
 email: huangyf9883@gmail.com
 description: "典型的三无人士 | K.HWANG (Kevin Hwang)"
 keyword: "K. HWANG, Kevin Hwang, KHwang9883, @KHwang9883, KevinHwang9883, huangyf9883, 博客, 部落格"
-url: "https://khwang9883.github.io"              # your host, for absolute URL
+url: "https://blog.kevinh.wang"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -58,14 +58,14 @@ kramdown:
 
 
 
-# Disqus settings
-# disqus_username: hux
-
-# Netease settings
-netease_comment: false
-
 # Gitalk
-gitalk: true
+gitalk:
+  enable: true
+  repo: khwang9883.github.io
+  owner: KHwang9883
+  admin: KHwang9883
+  clientID: 561d582b5a2956e1f6a3
+  clientSecret: a1d13918b3a34cee09cb50c9ec797aa52c65dd0a
 
 # Analytics settings
 # Baidu Analytics 
