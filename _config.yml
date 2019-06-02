@@ -103,11 +103,11 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
-        title: "测试 1",
-        href: "https://blog.kevinh.wang"
-    },{
-        title: "测试 2",
-        href: "https://blog.kevinh.wang"
-    }
+    #{
+    #    title: "测试 1",
+    #    href: "https://blog.kevinh.wang"
+    #},{
+    #    title: "测试 2",
+    #    href: "https://blog.kevinh.wang"
+    #}
 ]
