@@ -13,6 +13,7 @@ header-img: "img/head-bg.jpg"
         <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-12 col-xs-12 postlist-container">
             {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
             {{ about_zh | markdownify }}
+            <div id="gitalk-container"></div>
         </div>
         <!-- Sidebar Container -->
         <div class="col-lg-3 col-lg-offset-0 col-md-3 col-md-offset-0 col-sm-12 col-xs-12 sidebar-container">
@@ -32,7 +33,6 @@ header-img: "img/head-bg.jpg"
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
 <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 
-<div id="gitalk-container"></div>
     <script type="text/javascript">
     var gitalk = new Gitalk({
 
@@ -49,4 +49,3 @@ header-img: "img/head-bg.jpg"
 </script>
 {% endif %}
 <!-- Gitalk end -->
-{% endif %}
