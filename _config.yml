@@ -104,10 +104,10 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #    title: "Su",
-    #    href: "http://su.gallery/"
-    #},{
-    #    title: "乱序",
-    #    href: "http://mida.re/"
+        title: "测试 1",
+        href: "https://blog.kevinh.wang"
+    },{
+        title: "测试 2",
+        href: "https://blog.kevinh.wang"
     }
 ]
