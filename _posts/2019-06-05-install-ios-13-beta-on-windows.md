@@ -37,6 +37,6 @@ tags:
 
 最后放几张我 iPad 升级 iPadOS 后的截图。
 
-<img width="800" src="/img/in-post/IMG_0019.PNG" />
+<img width="800" src="/img/in-post/IMG_0024.PNG" />
 <img width="800" src="/img/in-post/IMG_0020.PNG" />
 <img width="800" src="/img/in-post/IMG_0021.PNG" />
