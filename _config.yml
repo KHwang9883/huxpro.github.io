@@ -5,7 +5,7 @@ header-img: img/head-bg.jpg
 email: huangyf9883@gmail.com
 description: "典型的三无人士 | K.HWANG (Kevin Hwang)"
 keyword: "K. HWANG, Kevin Hwang, KHwang9883, @KHwang9883, KevinHwang9883, huangyf9883, 博客, 部落格"
-url: "https://blog.kevinh.wang"              # your host, for absolute URL
+url: "https://www.kevinh.wang"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -105,9 +105,9 @@ page-mathjax: false
 friends: [
     #{
     #    title: "测试 1",
-    #    href: "https://blog.kevinh.wang"
+    #    href: "https://www.kevinh.wang"
     #},{
     #    title: "测试 2",
-    #    href: "https://blog.kevinh.wang"
+    #    href: "https://www.kevinh.wang"
     #}
 ]
