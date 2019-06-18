@@ -9,6 +9,12 @@ tags:
   - 刷机
 ---
 
+## 2019.06.18 更新
+
+iOS 13 Developer Beta 2 发布，Apple 这次提供了描述文件，可以通过 OTA 升级，不需要按照本文这样折腾了。
+
+---
+
 昨天凌晨，Apple 发布了 iOS 13 和全新的 iPadOS。发布会结束后，固件包也随即放出。但这次 Apple 没有提供 iOS 13 Beta 的描述文件，需要使用 iTunes 刷机。
 
 经过测试，Windows 版 iTunes 无法直接刷入 iOS 13 Beta，需要一台 Mac，升级 macOS 10.15 Beta 或安装 XCode 11 Beta 后再进行刷机。因此这次的更新方式对 Windows 用户不是很友好。
