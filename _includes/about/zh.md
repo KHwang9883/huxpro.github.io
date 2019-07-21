@@ -1,7 +1,7 @@
 ## 我
 
 - 学生
-- 典型的三无人士
+- 典型的三无人士，要啥没啥的那种
 
 ## 本站
 
@@ -14,3 +14,7 @@
 - [GitHub](https://github.com/KHwang9883)
 - [微博](https://weibo.com/huangyf9883)
 - [贴吧](https://tieba.baidu.com/home/main?un=newlife2017)
+
+## 其他
+
+- 不定期更新，一切随缘

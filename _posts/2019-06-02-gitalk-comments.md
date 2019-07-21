@@ -7,6 +7,10 @@ tags:
   - General
 ---
 
+**2019.07.21 更新：**Gitalk 评论框在某些中国联通网络下不加载，这不是本 Blog 的问题，可尝试切换其他运营商网络。
+
+---
+
 本站有了评论框。
 
 基于 GitHub Issues 的 [Gitalk](https://github.com/gitalk/gitalk)，配置过程并不复杂，比较适合基于 GitHub Pages 的站点。
