@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在 Windows 下更新 iOS 13 开发者 Beta 版"
+title: "在 Windows 下为 iOS 设备更新 iOS 13 Beta 版"
 author: "K. HWANG"
 header-img: "img/IMG_0023.PNG"
 header-mask: 0.4
@@ -11,7 +11,7 @@ tags:
 
 ## 2019.06.18 更新
 
-iOS 13 Developer Beta 2 发布，Apple 这次提供了描述文件，可以通过 OTA 升级，不需要按照本文这样折腾了。
+iOS 13 Developer Beta 2 发布，Apple 这次提供了描述文件，能 OTA 的就尽量不用此方法折腾了。
 
 ---
 
@@ -31,7 +31,7 @@ iOS 13 Developer Beta 2 发布，Apple 这次提供了描述文件，可以通�
 1. 打包下载 [此 repo](https://github.com/Devjam81/libimobile2019) 的全部内容（[直链](https://github.com/Devjam81/libimobile2019/archive/master.zip)），解压
 2. 下载对应设备的 ipsw 固件包，并将其放在刚才解压的位置
 3. **重启设备到 [恢复模式](https://support.apple.com/zh-cn/HT201263)**，连接电脑
-4. 以管理员方式打开命令提示符（cmd），定位到刚才的位置，例如 `E:\libimobile2019`，我们先输入 `E:` ，然后输入 `cd libimobile2019`
+4. 以管理员方式打开命令提示符（cmd），定位到刚才的位置，例如 `D:\libimobile2019`，我们先输入 `D:` ，然后输入 `cd libimobile2019`
 5. 输入 `idevicerestore -d "ipsw 固件包的文件名，不带引号"`，回车
 6. 等待十分钟左右，直到命令行提示 `Status: Restore Finished`，现在可以断开设备与电脑的连接
 7. 设备重启，提示恢复数据，输入两次密码（如果有），确认即可
@@ -41,7 +41,7 @@ iOS 13 Developer Beta 2 发布，Apple 这次提供了描述文件，可以通�
 
 参照 [此文](https://allthings.how/how-to-install-ios-13-from-windows-10-command-line-not-itunes/) 第七步的步骤操作。
 
-最后放几张我 iPad 升级 iPadOS 后的截图。
+最后放几张我的 iPad 更新 iPadOS 13 后的截图。
 
 <img width="800" src="/img/in-post/IMG_0024.PNG" />
 <img width="800" src="/img/in-post/IMG_0020.PNG" />
