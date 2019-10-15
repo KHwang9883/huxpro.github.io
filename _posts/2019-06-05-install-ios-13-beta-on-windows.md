@@ -9,6 +9,8 @@ tags:
   - 刷机
 ---
 
+> 最新版本的 iTunes 已经支持 iOS 13 的升级。
+
 ## 2019.06.18 更新
 
 iOS 13 Developer Beta 2 发布，Apple 这次提供了描述文件，能 OTA 的就尽量不用此方法折腾了。
